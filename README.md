@@ -7,9 +7,13 @@ Finding a tendency between CEO salary and something else
  Python 2
  
 # Dependencies
- numpy
- pandas
- statsmodels
- matplotlib
- seaborn
+  numpy
+  
+  pandas
+  
+  statsmodels
+  
+  matplotlib
+  
+  seaborn
  
